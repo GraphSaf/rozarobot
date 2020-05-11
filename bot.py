@@ -4,7 +4,7 @@ from Task import Task
 import parser
 
 #main variables
-TOKEN = '1263456104:AAGJlLapyYtiXdswwsPCUCBKUhAQ6gBbXa8'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 task = Task()
 
